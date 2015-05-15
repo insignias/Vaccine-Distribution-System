@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/ConfigureAnEcoSystem.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/Organization/EnterpriseAdminOrganization.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/UserAccount/UserAccountDirectory.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/Enterprise/EnterpriseDirectory.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/EcoSystem.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/UserInterface/HospitalRole/EnrollmentRequestWorkAreaJPanel.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/Organization/OrganizationDirectory.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/Enterprise/DistributorWarehouseEnterprise.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/Person/PersonDirectory.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/Organization/CDCOrganization.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/Enterprise/Enterprise.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/Enterprise/CDCEnterprise.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/Organization/Organization.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/UserInterface/ClinicRole/ClinicInvoiceJPanel.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/Organization/DistributorOrganization.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/Organization/DistributorWarehouseOrganization.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/WorkQueue/PatientRequest.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/Person/Person.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/WorkQueue/InvoiceRequest.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/Organization/ManufacturerOrganization.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/Organization/ClinicOrganization.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/WorkQueue/OrderRequest.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/UserAccount/UserAccount.java</file>
+            <file>file:/Users/insignia/Desktop/Final%20Project/Final%20%20Project/src/Business/DB4OUtil/DB4OUtil.java</file>
+        </group>
+    </open-files>
+</project-private>
